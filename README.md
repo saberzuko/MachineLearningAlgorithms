@@ -16,7 +16,7 @@
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [About the Project](#about-the project)
+- [About the Project](#about-the-project)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisties)
   - [Built With](#built-with)
@@ -83,7 +83,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 
 ## License
-Distributed under the MIT License. See[License](LICENSE.md) for more information
+Distributed under the MIT License. See [License](LICENSE.md) for more information
 
 <!-- CONTACT -->
 

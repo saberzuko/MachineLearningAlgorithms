@@ -26,7 +26,7 @@
 - [Contact](#contact)
   - [Akshay Krishna](#akshay-krishna)
  
-<! -- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT -->
  
 ## About the Project
  
@@ -38,7 +38,7 @@ I will be implementing other algorithms in the future and will be updating here 
  
 The code has been tried out with small and various datasets to see its perfromance and the algorithms seems to run pretty well.
  
-<! -- GETTING STARTED -->
+<!-- GETTING STARTED -->
  
 ## Getting Started
  

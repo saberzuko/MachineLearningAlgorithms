@@ -83,7 +83,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 
 ## License
-Distributed under the MIT License. See [License](LICENSE.md) for more information
+Distributed under the MIT License. See [License](LICENSE) for more information
 
 <!-- CONTACT -->
 
@@ -106,6 +106,6 @@ Distributed under the MIT License. See [License](LICENSE.md) for more informatio
 [issues-shield]: https://img.shields.io/github/issues/saberzuko/MachineLearningAlgorithms.svg?style=flat-square
 [issues-url]: https://github.com/saberzuko/MachineLearningAlgorithms/issues
 [license-shield]: https://img.shields.io/github/license/saberzuko/MachineLearningAlgorithms.svg?style=flat-square
-[license-url]: https://github.com/saberzuko/MachineLearningAlgorithms/blob/master/LICENSE.md
+[license-url]: https://github.com/saberzuko/MachineLearningAlgorithms/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/akshay-krishna-ak/

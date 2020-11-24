@@ -6,9 +6,9 @@
 
 <br />
 <p align="center">
- <h2 align="center">Machine Learning Algorithms built from scratch</h2>
+ <h1 align="center">Machine Learning Algorithms built from scratch</h1>
  <p align="center">
-  These algorithms are implemented as a proof of concept of understanding of the algorithms
+  These algorithms are implemented using the basic packages like NumPy, SciPy and random.
  </p>
 </p>
 <!-- TABLE OF CONTENTS -->
@@ -18,7 +18,7 @@
 - [Table of Contents](#table-of-contents)
 - [About the Project](#about-the-project)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisties)
+  - [Prerequisites](#prerequisites)
   - [Built With](#built-with)
   - [Installation and Inference](#installation-and-inference)
 - [Contibuting](#contributing)
@@ -32,7 +32,14 @@
  
 This project is mainly used to understand the basic implementation of the machine learning algorithms and how the machine learning algorithms learn from the data.
  
-Here I have implemeted **Decision Trees**, **K-Means Clustering**, and **K-Nearest Neighbors**.
+Here I have implemeted the following algorithms:
+1. **Decision Trees**
+2. **K-Means Clustering** 
+3. **K-Nearest Neighbors**
+4. **Gradient Descent**
+5. **Perceptron**
+6. **Principal Component Analysis**
+7. **Support Vector Machine**
  
 I will be implementing other algorithms in the future and will be updating here in my [github](https://github.com/saberzuko/MachineLearningAlgorithms)
  
@@ -66,7 +73,7 @@ git clone https://github.com/saberzuko/MachineLearningAlgorithms.git
 pip install -r requirements.txt
 ```
  
-3. Import the functions to your custom python files and give the necessary inputs
+3. Import the functions to your custom python files and give the necessary inputs. You can make use of the test scripts provided for each algorithm as an reference for future use.
  
 <!-- CONTRIBUTING -->
  

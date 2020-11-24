@@ -8,7 +8,7 @@
 <p align="center">
  <h2 align="center">Machine Learning Algorithms built from scratch</h2>
  <p align="center">
-  These algorithms are implemented as a proof of concept of the understanding of the algorithms
+  These algorithms are implemented as a proof of concept of understanding of the algorithms
  </p>
 </p>
 <!-- TABLE OF CONTENTS -->

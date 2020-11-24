@@ -14,7 +14,7 @@
 Developed functions:
 1. [gradient_descent](#gradient_descent)
 
-There is also a test script called [test_script.py](#test_script) which can be used to check the working of the functions
+There is also a test script called [test_script.py][test_script] which can be used to check the working of the functions
 
 
 ## GRADIENT_DESCENT

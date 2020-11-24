@@ -12,7 +12,7 @@
 
 ## About the Project
 Here we are implementing a linear classifier with a decision boundary that maximizes the margin between positive and negative samples (SVM). The details of SVM can be quite complex, so here we will implement a simpler version of it for 2D data.
-In the [test_script.py](#test_script) we make utilize of `helpers.generate_training_data_binary(num)` for generating the training data, where **num** indicates the training set. There are four different datasets (num=1, num=2, num=3, num=4) which we have provided in the [helpers.py](#helpers). All the datasets are linearly separable. **data** is a numpy array containing 2D features and their corresponding label in each row. So data[0] will have the form **[x1, x2, y]** where **[x1, x2]** is the feature for the first training sample and it has the label **y**. **y** can be -1 or 1.
+In the [test_script.py][test_script] we make utilize of `helpers.generate_training_data_binary(num)` for generating the training data, where **num** indicates the training set. There are four different datasets (num=1, num=2, num=3, num=4) which we have provided in the [helpers.py][helpers]. All the datasets are linearly separable. **data** is a numpy array containing 2D features and their corresponding label in each row. So data[0] will have the form **[x1, x2, y]** where **[x1, x2]** is the feature for the first training sample and it has the label **y**. **y** can be -1 or 1.
 
 Developed functions:
 1. [svm_train_brute](#svm_train_brute)
@@ -22,7 +22,7 @@ Developed functions:
 5. [svm_train_multiclass](#svm_train_multiclass)
 6. [svm_test_multiclass](#svm_test_multiclass)
 
-There is also a test script called [test_script.py](#test_script) which can be used to check the working of the functions
+There is also a test script called [test_script.py][test_script] which can be used to check the working of the functions
 
 
 ## SVM_TRAIN_BRUTE
@@ -63,7 +63,7 @@ This function is used to test the new data **x** given a decision boundary **w**
 
 
 Now, let's assume we're working with data that comes from more than two classes. We can still use an SVM to classify data into one of the Y classes by using multiple SVMs in an one-vs-all fashion. Instead of thinking about it as class 1 versus class 2 versus class 3, we can think of it as class 1 versus not class 1, and class 2 versus not class 2. So we would have one binary classifier for each class to distinguish that class from the rest.
-We will use `[data, Y] = generate_training_data_multi(num)` function in the [test_script.py](#test_script) to generate our training data.
+We will use `[data, Y] = generate_training_data_multi(num)` function in the [test_script.py][test_script] to generate our training data.
 The following functions are used to train our multi label classifier
 
 

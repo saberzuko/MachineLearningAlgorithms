@@ -12,7 +12,7 @@ Developed Functions:
 1. [K_Means(X, K, mu)](#k_means)
 2. [K_Means_better(X, K)](#k_means_better)
 
-There is also a test script called [test_script.py](#test_script) which can be used to check the working of the functions
+There is also a test script called [test_script.py][test_script] which can be used to check the working of the functions
 
 ## K_MEANS
 

@@ -16,7 +16,7 @@ Developed Functions
 1. [KNN_test(X_train, Y_train, X_test, Y_test, K)](knn_test)
 2. [choose_K(X_train, Y_train, X_val, Y_val)](choose_k)
 
-There is also a test script called [test_script.py](#test_script) which can be used to check the working of the functions
+There is also a test script called [test_script.py][test_script] which can be used to check the working of the functions
 
 ## KNN_TEST
 

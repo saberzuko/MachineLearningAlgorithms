@@ -18,7 +18,7 @@ Developed functions:
 4. [DT_train_real](#dt_train_real)
 5. [DT_test_real](#dt_test_real)
 
-There is also a test script called [test_script.py](#test_script) which can be used to check the working of the functions
+There is also a test script called [test_script.py][test_script] which can be used to check the working of the functions
 
 
 <!-- DT TRAIN BINARY -->

@@ -15,7 +15,7 @@ Developed functions:
 1. [pereptron_train](#perceptron_train)
 2. [perceptron_test](#perceptron_test)
 
-There is also a test script called [test_script.py](#test_script) which can be used to check the working of the functions
+There is also a test script called [test_script.py][test_script] which can be used to check the working of the functions
 
 
 ## PERCEPTRON_TRAIN

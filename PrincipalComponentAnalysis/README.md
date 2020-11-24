@@ -17,7 +17,7 @@ Developed functions:
 3. [find_pcs](#find_pcs)
 4. [project_data](#project_data)
 
-There is also a test script called [test_script.py](#test_script) which can be used to check the working of the functions
+There is also a test script called [test_script.py][test_script] which can be used to check the working of the functions
 
 
 ## COMPUTE_Z

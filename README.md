@@ -42,7 +42,7 @@ The code has been tried out with small and various datasets to see its perfroman
  
 ## Getting Started
  
-<!-- PREREQUISITIES -->
+<!-- PREREQUISITES -->
 ### Prerequisites
  
 - [Python 3](https://www.python.org/)

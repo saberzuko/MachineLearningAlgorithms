@@ -49,17 +49,20 @@ The code has been tried out with small and various datasets to see its perfroman
  
 ## Getting Started
  
+<!-- PREREQUISITES -->
 ### Prerequisites
  
 - [Python 3](https://www.python.org/)
 - [Git](https://git-scm.com/)
  
+<!-- BUILT WITH -->
 ### Built With
  
 - [NumPy](https://numpy.org/)
 - [SciPy](https://www.scipy.org/)
 - [random](https://docs.python.org/3/library/random.html)
  
+<!-- INSTALLATION AND INFERENCE -->
 ### Installation and Inference
 1. Clone the repo
  

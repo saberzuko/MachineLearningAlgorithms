@@ -20,7 +20,7 @@ There is also a test script called [test_script.py][test_script] which can be us
 ## GRADIENT_DESCENT
 
 ```python
-x = gradient_descent(deltaF; xinit; neeta)
+x = gradient_descent(deltaF, xinit, neeta)
 ```
 
 This function takes the gradient of a function f, **deltaF** as input, the starting **xinit** and the learning rate **neeta**. The output of gradient descent is the value of **x** that minimizes **deltaF**. **deltaF** will be in the form of a function, so that we can calculate the gradient at a particular point. That is **deltaF** is a function with one input x and it outputs the value of the gradient at that point. If we are working with 1D variables, then x= (x1). If x is 2D then x= (x1, x2) and so on. x should be a 1D numpy array.
